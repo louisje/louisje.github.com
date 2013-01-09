@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="台股即時走勢" author="louisje" author_email="louisje@gmail.com"/>
+  <Content type="html">
+    <![CDATA[
+      <img src="http://tw.quote.finance.yahoo.net/quote/charts/news%23001.gif"/>
+    ]]>
+  </Content>
+</Module>
